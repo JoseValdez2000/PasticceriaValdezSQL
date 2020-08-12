@@ -1,0 +1,49 @@
+*{
+	margin:0; 
+	padding:0;
+}
+body nav{
+	float: center;
+}
+body nav a{
+	display: inline-block;
+	color: #E57373;
+	text-decoration: none;
+	padding: 10px 20px;
+	line-height: normal;
+	font-size: 20px;
+	font-weight: bold;
+}
+body nav a:hover{
+	background: gray;
+	border-radius: 50px;
+}
+body div{
+	float: center;
+}
+body div a{
+	display: inline-block;
+	color: #E57373;
+	text-decoration: none;
+	padding: 5px 10px;
+	line-height: normal;
+	font-size: 15px;
+	font-weight: bold;
+}
+body div a:hover{
+	background: gray;
+	border-radius: 50px;
+}
+.boton{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 550;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+  }
+  .boton:hover{
+    color: white;
+    background-color: gray;
+  }
